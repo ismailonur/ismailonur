@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İsmail Onur</h1>
 <h3 align="center">Software Engineer. Mobil (React-Native) and React.js Developer</h3>
 
-- 👨‍💻 My website [https://ismailonur.github.io](https://ismailonur.github.io)
+- 👨‍💻 My website [https://ismailonur.dev](https://ismailonur.dev)
 
 - [App Store](https://apps.apple.com/us/developer/ismail-onur/id1652834736)
 
